@@ -1,6 +1,9 @@
 *.sch-bak
 *.kicad_pcb-bak
+*.kicad_prl
 fp-info-cache
 *-cache.lib
 *.bck
 Gerbers
+*-backups
+*-rescue.*
